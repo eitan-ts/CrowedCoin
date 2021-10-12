@@ -5,7 +5,7 @@ A "Kickstarter" like solution on the blockchain, Using Solidity for the smart co
 
 - To Run a version of the site, simply clone the repository to your local machine and use "npm run start" on the CLI.
 
-- You will require Metamask wallet or any other web based wallet to communicate with the Etherum test network.
+- You will require Metamask wallet or any other web based wallet to communicate with the Ethereum test network.
 
 - You are advised to use the Rinkbey test network while using the site, you can use this faucet to get some Ether to try it up: https://faucet.rinkeby.io/
 
