@@ -11,4 +11,4 @@ A "Kickstarter" like solution on the blockchain, Using Solidity for the smart co
 
 - You can create Campaigns, Pledge to already existed campaigns and create and/or approve requests of your appropriate Campaigns.
 
-- While there is no authentication on the site itself all authentication is happening on the smart contract itself and such will deny you from doing unauthorized transaction.
+- While there is no authentication on the site itself all authentication is happening on the smart contract and such will deny you from doing unauthorized transaction.
